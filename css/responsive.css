@@ -1,0 +1,67 @@
+@media only screen and (max-width: 1200px){
+
+
+.rounded-circle{
+	height: 400px;
+	width: 400px;
+	margin-top: 20%;	
+}
+
+.name{
+
+	font-size: 90px;
+}
+.descs{
+	font-size: 50px;
+}
+
+}
+
+
+@media only screen and (max-width: 1023px){
+.rounded-circle{
+	height: 230px;
+	width: 230px;
+	margin-top: 20%;
+}
+
+.name{
+
+	font-size: 50px;
+}
+.descs{
+	font-size: 30px;
+}
+}
+
+
+@media only screen and (max-width: 767px){
+.rounded-circle{
+	height: 180px;
+	width: 180px;
+}
+.name{
+
+	font-size: 45px;
+}
+.descs{
+	font-size: 20px;
+}
+}
+
+
+
+@media only screen and (max-width: 480px){
+.rounded-circle{
+	height: 170px;
+	width: 170px;
+}
+.name{
+
+	font-size: 32px;
+}
+.descs{
+	font-size: 20px;
+}
+
+}
